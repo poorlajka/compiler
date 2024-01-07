@@ -1,0 +1,26 @@
+PLUS = "+"
+MINUS = "-"
+MUL = "*"
+DIV = "/"
+POW = "^"
+MOD = "%"
+EQUALS = "=="
+NOT_EQUALS = "!="
+NOT = "!"
+GREATER_THAN = ">"
+LESS_THAN = "<"
+GREATER_OR_EQUAL = ">="
+LESS_OR_EQUAL = "<="
+AND = "&&"
+OR = "||"
+CURLY_OPEN = "{"
+CURLY_CLOSE = "}"
+SQUARE_OPEN = "["
+SQUARE_CLOSE = "]"
+COLON = ":"
+SEMICOLON = ";"
+
+
+IF
+ELSE
+FOR 
